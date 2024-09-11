@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+Technology Areas you may find here:
+- 🫥 VMware
+- ⛅ Azure
+- 🚗 Automation
+- 🐚 PowerShell
+- 💪 Bicep
+- ⚡ Azure Functions
+
+
+## 📝 my website
+👋<https://davidquinlisk.uk>
+
+## Reach me on Twitter
+👋[@davidquinlisk](https://twitter.com/davidquinlisk)
+
+
+
 <!--
 **davidquinlisk/davidquinlisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
